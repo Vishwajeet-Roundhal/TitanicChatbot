@@ -1,0 +1,35 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+venv/
+env/
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# Environment variables / Secrets
+.env
+*.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Matplotlib Cache
+.matplotlib_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache
+__pycache__/
+*.pkl
+*.joblib
+
+# FastAPI specific
+*.db
