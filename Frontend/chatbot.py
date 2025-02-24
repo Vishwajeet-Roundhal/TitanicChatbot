@@ -5,7 +5,7 @@ from PIL import Image
 import io
 
 # Backend API URL
-BACKEND_URL = "http://127.0.0.1:8000/query"
+BACKEND_URL = "https://titanicchatbot.onrender.com/query"
 
 # Streamlit UI Configuration
 st.set_page_config(page_title="Titanic Chatbot", page_icon="🚢", layout="wide")
